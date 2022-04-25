@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tour_service", "tour_service\tour_service.csproj", "{A801A97F-FF54-4329-8144-F097E1D4DEBF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Tour service", "Tour service\Tour service.vdproj", "{3F1ABBE5-187C-4D06-A0EF-51EDED588F94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A801A97F-FF54-4329-8144-F097E1D4DEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A801A97F-FF54-4329-8144-F097E1D4DEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A801A97F-FF54-4329-8144-F097E1D4DEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A801A97F-FF54-4329-8144-F097E1D4DEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1ABBE5-187C-4D06-A0EF-51EDED588F94}.Debug|Any CPU.ActiveCfg = Debug
+		{3F1ABBE5-187C-4D06-A0EF-51EDED588F94}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48120502-F2A0-49C9-A47C-2B93913AB01B}
+	EndGlobalSection
+EndGlobal
